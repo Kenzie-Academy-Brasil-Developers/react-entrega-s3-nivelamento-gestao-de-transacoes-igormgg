@@ -1,0 +1,22 @@
+.formBox {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 2px solid gray;
+}
+
+.formBox input {
+  background-color: white;
+  margin-right: 5px;
+}
+
+.formBox button {
+  box-sizing: border-box;
+}
+
+.formBox h1 {
+  font-weight: bold;
+  margin-right: 5px;
+  font-size: calc(10px + 2vmin);
+}

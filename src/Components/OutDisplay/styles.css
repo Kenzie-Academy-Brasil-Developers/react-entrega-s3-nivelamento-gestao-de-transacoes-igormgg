@@ -1,0 +1,30 @@
+.outFruitsContainer {
+  border: 2px solid white;
+  padding: 10px;
+  margin: 5px;
+  margin-top: 15px;
+}
+
+.outFruitsContainer h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.outFruitsBox {
+  margin: 5px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.outFruitsBox li {
+  margin: 10px;
+  padding: 10px;
+  border: 1px dotted white;
+  box-sizing: border-box;
+}
+
+.outFruitsBox h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: red;
+}

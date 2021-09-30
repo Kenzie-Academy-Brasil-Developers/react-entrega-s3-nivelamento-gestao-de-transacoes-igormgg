@@ -1,0 +1,30 @@
+.inFruitsContainer {
+  border: 2px solid white;
+  padding: 10px;
+  margin: 5px;
+  margin-top: 15px;
+}
+
+.inFruitsContainer h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.inFruitsBox {
+  margin: 5px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.inFruitsBox li {
+  margin: 10px;
+  padding: 10px;
+  border: 1px dotted white;
+  box-sizing: border-box;
+}
+
+.inFruitsBox h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: rgb(106, 255, 47);
+}

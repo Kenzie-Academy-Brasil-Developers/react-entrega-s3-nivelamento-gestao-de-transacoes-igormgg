@@ -1,0 +1,29 @@
+.allFruitsContainer {
+  border: 2px solid white;
+  padding: 10px;
+  margin: 5px;
+}
+
+.allFruitsContainer h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.allFruitsBox {
+  margin: 5px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.allFruitsBox li {
+  margin: 10px;
+  padding: 10px;
+  border: 1px dotted white;
+  box-sizing: border-box;
+}
+
+.allFruitsBox h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: yellow;
+}
